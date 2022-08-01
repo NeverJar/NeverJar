@@ -1,0 +1,20 @@
+.button {
+    background-color: white;
+    box-shadow: 0px 0px 20px black;
+    border: none;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+    border-radius: 10%;
+    transition-duration: 200ms;
+}
+
+.button:hover {
+    color: black;
+    background-color: white;
+    box-shadow: 0px 0px 30px black;
+    transition-duration: 200ms;
+}
