@@ -1,1 +1,1 @@
-<link rel="stylesheet" href="style.css"><a href="http://discord.killia.xyz/"><button class="button"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" height="32"/</button></a><a href="https://tiktok.com/@dointent"><button class="button"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TikTok_Icon_Black.svg" height="32" /></button></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverjar&show_icons=true&theme=radical)](http://discord.killia.xyz/)
