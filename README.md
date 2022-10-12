@@ -1,7 +1,7 @@
 <hr>
 <div style="box-align: center;">
     <a href="https://discord.com/users/764504640007045130">
-      <img src="https://lanyard-profile-readme.vercel.app/api/764504640007045130?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
+      <img src="https://lanyard.cnrad.dev/api/764504640007045130?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
     </a>
 </div>
 <hr>
