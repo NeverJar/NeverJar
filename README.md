@@ -17,11 +17,3 @@
     </p>
 </details>
 <hr>
-<p align="center">
-    <a href="http://discord.killia.xyz/">
-        <img src="https://img.icons8.com/ios-filled/344/discord-logo.png" height="32" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCudu8yIvqTOvAIxEqtdzPMA">
-        <img src="https://img.icons8.com/ios-filled/344/youtube-play.png" height="32" />
-    </a>
-</p>
