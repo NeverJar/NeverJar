@@ -4,17 +4,16 @@
 <details>
     <summary>Github stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=neverjar&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=neverjar&show_icons=true&bg_color=00000000" />
     </p>
 </details>
 <details>
     <summary>Favourite Languages</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverjar&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverjar&show_icons=true&bg_color=00000000" />
     </p>
 </details>
 <hr>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Software engineer / Backend</code>
 <code>🧑‍💻 Languages: Python, JavaScript</code>
-<code>💬 telegram: [@NeverJar](https://telegram.me/NeverJar)</code>
 <hr>
