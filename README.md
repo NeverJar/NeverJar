@@ -17,3 +17,7 @@
     </p>
 </details>
 <hr>
+<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🧑‍💻 Languages: Python, JavaScript</code>
+<code>💬 telegram: [@NeverJar](https://telegram.me/NeverJar)</code>
+<hr>
