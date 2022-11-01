@@ -14,6 +14,8 @@
     </p>
 </details>
 <hr>
-<code>👷 Speciality: Software engineer / Backend</code>
-<code>🧑‍💻 Languages: Python, JavaScript</code>
+<div class="text-align: center;">
+    <code>👷 Speciality: Software engineer / Backend</code>
+    <code>🧑‍💻 Languages: Python, JavaScript</code>
+</div>
 <hr>
