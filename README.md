@@ -13,5 +13,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverjar&show_icons=true&bg_color=00000000&hide_border=true" />
     </p>
 </details>
-<img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,c"></img>
+<img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,cpp"></img>
 <hr>
